@@ -1,5 +1,6 @@
-# telegram_delete_duplicates
-A simple script that deletes duplicate messages (text or caption) in a channel using Telepot and and telegram bot.
+# Telegram Delete Duplicate Messages
+
+A simple script that deletes duplicate messages (text or caption) in a Telegram channel using Telepot and and telegram bot.
 
 ## Heroku Deployment
 1. Create a heroku python app
